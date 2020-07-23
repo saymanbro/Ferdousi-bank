@@ -1,0 +1,28 @@
+body{
+    padding: 100px;
+}
+.log-area{
+   
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 50px;
+}
+#transection{
+    display: none;
+}
+.status{
+    margin: 0px 20px;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
